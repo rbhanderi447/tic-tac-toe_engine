@@ -73,3 +73,5 @@ I may improve the point system and make the computer player smarter in the futur
 ## Author
 
 Made as a personal C++ programming project.
+
+-> And please don't mind the comments, as I's just having fun writing comments ...
